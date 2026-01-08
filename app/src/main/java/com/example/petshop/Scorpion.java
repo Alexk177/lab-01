@@ -13,6 +13,6 @@ public class Scorpion extends Pet{
 
     @Override
     public String speak() {
-        return "bark";
+        return "hiss";
     }
 }
